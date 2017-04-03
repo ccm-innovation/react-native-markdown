@@ -1,4 +1,5 @@
 # React Native CommonMark Markdown
+Based on [Rexxars' implementation for React](https://github.com/rexxars/react-markdown). Also imcorporating styles from [CharlesMangwa's React Native Simple Markdown](https://github.com/CharlesMangwa/react-native-simple-markdown?files=1).
 
 ## Installation
 ```
